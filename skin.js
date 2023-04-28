@@ -4,7 +4,7 @@
 // @version      0.1
 // @description  try to take over the world!
 // @author       You
-// @match        https://impeblast.youtrack.cloud/gantt-charts/173-0
+// @match        https://*.youtrack.cloud/gantt-charts/
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=youtrack.cloud
 // @grant        none
 // ==/UserScript==
