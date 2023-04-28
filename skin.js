@@ -17,7 +17,7 @@
     const testLikeName = '';
     const prodLikeName = '';
 
-    const searchXpathTemplate = '//div[.//div[@data-test="issue-summary" and contains(normalize-space(), "%%")] and @data-test="bar"]
+    const searchXpathTemplate = '//div[.//div[@data-test="issue-summary" and contains(normalize-space(), "%%")] and @data-test="bar"]';
 
     const pathToAllVersionLikeSegment = searchXpathTemplate.replace('%%', 'V');
     const pathToAllDevLikeSegment = searchXpathTemplate.replace('%%', 'Dev');
